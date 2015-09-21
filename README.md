@@ -1,4 +1,4 @@
-The ubiquitous use of logic
+Introduction
 =======
 
 Recently I’ve noticed how many things are said that on the surface sound sound, but upon further examination the statements suddenly sound slightly strange afterall. On the other hand, sometimes some statements sound stupid, but after sounding out the subtleties, the statements are sound afterall. Logic is a tool that can guide us through the noise.
