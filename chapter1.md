@@ -1,6 +1,6 @@
 # The ubiquitous use of logic
 
-Humans have been drawing lines in the sand since the dawn of time. looking at those lines lead people to geometry. Famously Pythagoras reasoned about lines, angles and triangles around 500 BC. However apocryphally he was rather irrational, his followers threw a man into the sea to keep secret that √2 isn’t rational. Yet somehow, they call the numbers rather than the people irrational.
+Humans have been drawing lines in the sand since the dawn of time. looking at those lines lead people to geometry. Famously Pythagoras reasoned about lines, angles and triangles around 500 BC. However apocryphally he was rather irrational: his followers threw a man into the sea to keep secret that √2 isn't rational. Yet somehow, they call the numbers rather than the people irrational.
 
 Socrates, Plato and the sophists were apparently arguing around 400 BC, but it was Aristotle rooted in rationalism who really made reasonable progress on reason in response to his forebears. He started the systematisation of logical laws like modus ponens, a form of deductive reasoning. An example of the modus ponens:
 
