@@ -1,4 +1,4 @@
-# The limits of logic
+# Limiting logic
 
 Before getting started it helps to highlight what logic is, why it was
 developed, and how to apply it correctly.
@@ -34,7 +34,7 @@ everything is true. However, if everything is true then the opposite, nothing,
 is true too. This assertion is also contradictory. So we can conclude that not
 everything is true.
 
-## The philosophical properties of truth
+## Properties of truth
 
 For the purposes of the discussion the following are taken to be properties of
 truth.
@@ -45,6 +45,33 @@ truth.
 * *Truth is consistent* - A proposition found to be true will not contradict
   other claims known to be true.
 
-On a philosophical level there are more properties of truth, 
+There are othe attractive properties that truth should fulfill. For instance,
+Truth should cohere with and match reality. It should also have explanatory
+power and make predictions that are also true. However these are philosophical
+properties and are outside the scope of our discussion.
 
-* *Truth is coherent* - The truth matches reality.
+## The limits of logic
+
+Sometimes an argument can be logically correct but be incorrect. As an example
+of this is the following argument. The conclusion (3) is a consequence of its
+premises (1) (2), so it is logically valid. However, (1) is untrue, not all
+birds with wings can fly so the argument is  philosophically false. These are
+called unsound arguments.
+
+1. All birds with wings can fly.
+1. Ostriches are birds with wings.
+1. Therefore, ostriches can fly.
+
+To further push the point. The following is an argument that was copied from a
+Wikipedia article used in a highly controversial debate. Without the intenion
+of provoking a holy war, the following is an argument where the conclusion is a
+logical consequence of its premises, so it is considered a logically valid
+argument.
+
+1. It is wrong to kill innocent human beings.
+1. The embryo is an innocent human being.
+1. Hence it is wrong to kill the embryo.
+
+Parties opposed to this position argue that either (1) or (2), or both are
+false. If so, the argument would be unsound. However that is not within the
+remit of logic to decide.
