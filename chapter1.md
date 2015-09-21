@@ -1,9 +1,5 @@
 # The ubiquitous use of logic
 
-Recently I noticed how many things are said that on the surface sound sound, but upon further examination the statements suddenly sound slightly strange after all. On the other hand, sometimes some statements sound stupid, but after sounding out the subtleties, the statements are sound after all. Logic is a tool that can guide us through the noise.
-
-I would to talk about a topic that's close to my heart: logic. It might be a strange subject to subject anyone to, but if you find my babbling baffling or the discussion disgusting, just discontinue. However, first a disclaimer: I may be waxing about logic lyrically, but I won't put much verve into verifying the veracity of my historical claims.
-
 Humans have been drawing lines in the sand since the dawn of time. looking at those lines lead people to geometry; famously Pythagoras reasoned about lines, angles and triangles around 500 BC. However apocryphally he was rather irrational, his followers threw a man into the sea to keep secret that √2 isn’t rational. Yet somehow, they call the numbers rather than the people irrational.
 
 Socrates, Plato and the sophists were apparently arguing around 400 BC, but it was Aristotle rooted in rationalism who really made reasonable progress on reason in response to his forebears. He started the systematisation of logical laws like modus ponens, a form of deductive reasoning. An example of the modus ponens:
