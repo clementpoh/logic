@@ -16,6 +16,6 @@ Around 2000 years after Aristotle, George Boole burst onto the scene. Before Boo
 
 I remember crashing a friend's introductory philosophy lecture in early 2009 just before I went to Japan. The lecturer was going through basic logic. He said something like: 
 
-All this stuff is  useless except that you can now say cool words like ‘disjunctive syllogism’ and your friends can't understand you. In fact, philosophy is so useless that thanks to the incoming Melbourne Model I will be out of job at the end of the semester.
+> All this stuff is  useless except that you can now say cool words like 'disjunctive syllogism' and your friends can't understand you. In fact, philosophy is so useless that thanks to the incoming Melbourne Model I will be out of job at the end of the semester.
 
 I was appalled. I remember thinking no wonder he is losing his job, logic is applied ubiquitously. In logical circuits. The least the lecturer could have done is taught symbolic logic.
