@@ -48,4 +48,4 @@ Other material from different but related subjects may also be borrowed. Specifi
  * Design of Algorithms; and
  * Programming Language Implementation.
 
-Therefore this would be most indebted to Harald Sondergaard and Peter Schacte.
+Therefore this would be most indebted to Harald Sondergaard and Peter Schacte. For claims outside the scope of these subjects, Wikipedia and Google are consulted.
