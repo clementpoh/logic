@@ -16,16 +16,14 @@ said something like:
 > be out of job at the end of the semester.
 
 I was appalled. I remember thinking no wonder he is losing his job, logic is
-applied ubiquitously. In logical circuits to begin with, and it can be applied
-to real life.
+used ubiquitously. In logical circuits to begin with, and can be applied
+to everyday life.
 
 Some statements on the surface sound sound. Upon further examination the
 statements suddenly sound slightly strange after all. Sometimes certain
 statements sound stupid. However, after sounding out the subtleties, the
 statements are sound after all. Logic is a tool that can guide us through
 the cacophony away from the noise.
-
-Much of the material
 
 Disclaimer
 ----------
@@ -34,3 +32,15 @@ Disclaimer
 baffling or the discussion disgusting, just discontinue.
 
 * I won't put much verve into verifying the veracity of my historical claims.
+
+* This is written purely out of interest. It does not adhere to rigorous academic standards. It should be considered more like a lecture reader. I am not bothering to reference.
+ 
+Acknowledgements
+----------------
+
+Much of the material here will have been borrowed heavily from my experience teaching logic at Melbourne University since 2008. It will cover much of the same ground as the subjects taught. Specifically:
+* Logic and Computation;
+* Discrete Structures; and
+* Models of Computation.
+
+Therefore 
