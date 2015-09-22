@@ -28,8 +28,8 @@ the intellectual world.
 Leibniz made symbolic progress around the mid 17th century. He was a great
 mathematician, discovering calculus independently of Newton. Others would later
 lambaste Leibniz for plagiarising Newton who is credited as the conventional
-creator of calculus; however it’s Leibniz rather than Newtonian notation now in
-common use. Leibniz’s leap was his understanding that representation is
+creator of calculus; however it's Leibniz rather than Newtonian notation now in
+common use. Leibniz's leap was his understanding that representation is
 relevant to human thought, and the idea that much reasoning could be reduced to
 mathematical calculation.
 
