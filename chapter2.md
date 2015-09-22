@@ -29,7 +29,7 @@ Conversely, consider the proposition:
 
 > Everything is true.
 
-Now think about that for a second. If the statement is false, then not
+Now think about that for a moment. If the statement is false, then not
 everything is true. However, if everything is true then the opposite, nothing,
 is true too. This assertion is also contradictory. We can conclude that not
 everything is true.
@@ -42,25 +42,22 @@ truth.
 * *Truth is exclusive* - Once the truth of a claim is established, mutually
   exclusive claims are known to be false. If we accept $$1 + 1 = 2$$. We know
   that $$1 + 1 \neq 3$$.
-* *Truth is consistent* - A proposition found to be true will not contradict
-  other claims known to be true.
+* *Truth is consistent* - The truth does not contradict itself. A proposition found to be true will not contradict other claims known to be true.
 
-There are other attractive properties that truth should fulfill. For instance,
+There are other attractive properties that truth should satisfy. For instance,
 Truth should cohere with and match reality. It should also have explanatory
-power and make predictions that are also true. However these are philosophical
-properties and are outside the scope of our discussion.
+power and make predictions that are also true. The truth should be robust. It should be able to withstand questioning and scrutiny. However these are philosophical
+considerations and are outside the scope of our discussion.
 
 ## The limits of logic
 
-Sometimes an argument can be logically correct but be incorrect. As an example
-of this is the following argument. The conclusion (3) is a consequence of its
-premises (1) (2), so it is logically valid. However, (1) is untrue, not all
-birds with wings can fly so the argument is  philosophically false. These are
-called unsound arguments.
+Sometimes an argument can be considered logically valid but still be incorrect. An example of this is the following argument. 
 
 1. All birds with wings can fly.
 1. Ostriches are birds with wings.
 1. Therefore, ostriches can fly.
+
+The conclusion $$(3)$$ is a consequence of its premises $$(1)$$ and $$(2)$$, so it is logically valid. However, not all birds with wings can fly, so $$(1)$$ is untrue. The argument is therefore philosophically false. Arguments where the base assumptions are false are called unsound arguments.
 
 To further push the point. The following is an argument that was copied from a
 Wikipedia article used in a highly controversial debate. Without the intention
@@ -72,6 +69,8 @@ argument.
 1. The embryo is an innocent human being.
 1. Hence it is wrong to kill the embryo.
 
-Parties opposed to this position argue that either (1) or (2), or both are
+Parties opposed to this position argue that either $$(1)$$, $$(2)$$, or both are
 false. If so, the argument would be unsound. However, that is not within the
 remit of reason alone.
+
+Controversy aside, this gives us clues to validate truth claims.
