@@ -1,4 +1,4 @@
-# Limiting logic
+# Defining the domain of logic
 
 Before getting started it helps to highlight what logic is, why it was
 developed, and how to apply it correctly.
@@ -31,7 +31,7 @@ Conversely, consider the proposition:
 
 Now think about that for a second. If the statement is false, then not
 everything is true. However, if everything is true then the opposite, nothing,
-is true too. This assertion is also contradictory. So we can conclude that not
+is true too. This assertion is also contradictory. We can conclude that not
 everything is true.
 
 ## Properties of truth
@@ -45,7 +45,7 @@ truth.
 * *Truth is consistent* - A proposition found to be true will not contradict
   other claims known to be true.
 
-There are othe attractive properties that truth should fulfill. For instance,
+There are other attractive properties that truth should fulfill. For instance,
 Truth should cohere with and match reality. It should also have explanatory
 power and make predictions that are also true. However these are philosophical
 properties and are outside the scope of our discussion.
@@ -63,7 +63,7 @@ called unsound arguments.
 1. Therefore, ostriches can fly.
 
 To further push the point. The following is an argument that was copied from a
-Wikipedia article used in a highly controversial debate. Without the intenion
+Wikipedia article used in a highly controversial debate. Without the intention
 of provoking a holy war, the following is an argument where the conclusion is a
 logical consequence of its premises, so it is considered a logically valid
 argument.
@@ -73,5 +73,5 @@ argument.
 1. Hence it is wrong to kill the embryo.
 
 Parties opposed to this position argue that either (1) or (2), or both are
-false. If so, the argument would be unsound. However that is not within the
-remit of logic to decide.
+false. If so, the argument would be unsound. However, that is not within the
+remit of reason alone.
