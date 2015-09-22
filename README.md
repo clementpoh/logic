@@ -25,6 +25,8 @@ statements sound stupid. However, after sounding out the subtleties, the
 statements are sound after all. Logic is a tool that can guide us through
 the cacophony away from the noise.
 
+Much of the material
+
 Disclaimer
 ----------
 
