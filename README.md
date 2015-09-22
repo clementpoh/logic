@@ -33,14 +33,19 @@ baffling or the discussion disgusting, just discontinue.
 
 * I won't put much verve into verifying the veracity of my historical claims.
 
-* This is written purely out of interest. It does not adhere to rigorous academic standards. It should be considered more like a lecture reader. I am not bothering to reference.
+* This is written purely out of interest. It does not adhere to rigorous academic standards. It should be considered more like a lecture reader. I am not bothering to reference properly.
  
 Acknowledgements
 ----------------
 
-Much of the material here will have been borrowed heavily from my experience teaching logic at Melbourne University since 2008. It will cover much of the same ground as the subjects taught. Specifically:
+Much of the material here will have been borrowed heavily from my experience teaching. It will cover much of the same ground as the subjects I helped teach at Melbourne University. Specifically:
 * Logic and Computation;
 * Discrete Structures; and
 * Models of Computation.
 
-Therefore 
+Other material from different but related subjects may also be borrowed. Specifically:
+ * Declarative Programming;
+ * Design of Algorithms; and
+ * Programming Language Implementation.
+
+Therefore this would be most indebted to Harald Sondergaard and Peter Schacte.
