@@ -11,7 +11,7 @@ A logical formula is unsatisfiable if it can never be true. For example the form
 # Law of non-contradiction
 Contradictory statements cannot both be true in the same sense at the same time. $$\neg P \land P$$ is unsatisfiable.
 
-# Law of the undistributed middle
+# Law of the excluded middle
 For any proposition, either that proposition is true, or its negation is true. $$\neg P \lor P$$ is a tautology.
 
 # Sound argument
