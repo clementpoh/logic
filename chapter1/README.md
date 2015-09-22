@@ -20,7 +20,7 @@ used ubiquitously. On a practical level, logic is indispensable to the circuits
 of calculators, computers and phones. On a philosophical level it can be
 applied to validate arguments and assertions we encounter in everyday life.
 
-> A text without context is just a pretext.
+## A text without context is a pretext
 
 Before exploring basic formalisations of logic, in this section we will very
 briefly cover the history and context of logical reasoning and thought.
