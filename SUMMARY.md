@@ -5,3 +5,4 @@
     * [Defining the dominion of logic](chapter1/02.dominion.md)
     * [Obstacles to objectivity](chapter1/03.obstacles.md)
     * [Adducing awful arguments](chapter1/04.fallacies.md)
+    * [Refuting regressive rhetoric](chapter1/05.regressive.md)

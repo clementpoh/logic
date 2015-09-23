@@ -19,7 +19,7 @@ at Melbourne University. Specifically:
 * Models of Computation.
 
 I will include other content which I have learned through my reading or studies
-as I feel like.
+as what makes sense.
 
 Acknowledgements
 ----------------
