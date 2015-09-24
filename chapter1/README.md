@@ -26,3 +26,10 @@ Before exploring basic formalisations of logic, in this section we will very
 briefly cover the history and context of logical reasoning and thought.
 Properties of truth, and the limits of logic are discussed. We will then finish
 with some common pitfalls and issues in its application.
+
+## Disclaimer
+
+This section has not borrowed material from any university course I have taken.
+So don't blame any of the subjects at Melbourne University for my poverty of
+thought. It mostly comes from my reading and flawed understanding of the
+philosophy of logic.
