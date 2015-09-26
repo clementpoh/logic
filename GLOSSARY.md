@@ -3,6 +3,12 @@ A premise, presupposition or starting point for logical reasoning. They were
 classically conceived to be self-evident. Axioms are supposed to be accepted as
 true without controversy. Truth definitely known.
 
+Logical systems begin  with *axioms*. Axioms are the premises and premises for
+reasoning in a logical system. In current philosophy, there are many opinions
+on what it means for a logical or mathematical statement to be true. However,
+the ancients believed axioms to be self-evident; true without needing
+explanation. Axioms are truth definitely known.
+
 # Valid argument
 An argument that follows from its premises or base assumptions. When the
 premises are true, the conclusion is also true.
