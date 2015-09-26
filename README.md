@@ -11,15 +11,15 @@ Scope
 I have wanted to write down what I learned about logic and its related
 applications for a while. What I know best is what I have taught the most.
 
-So, much of the material here will have been borrowed heavily from my experience
-teaching. It will cover much of the same ground as the subjects I helped teach
+I will also include other content outside of the scope of what was taught in
+University.
+
+Much of the material here will have been borrowed heavily from my experience
+teaching. It will cover some of the same ground as the subjects I helped teach
 at Melbourne University. Specifically:
 * Logic and Computation;
 * Discrete Structures; and
 * Models of Computation.
-
-I will include other content which I have learned through my reading or studies
-as what makes sense.
 
 Acknowledgements
 ----------------
@@ -28,8 +28,9 @@ Content borrowed from coursework would be most indebted to Harald Sondergaard
 and Peter Schacte.
 
 For claims outside the scope of these subjects, there are various books and
-articles I read. However while compiling these notes it's likely Wikipedia and
-Google are resources consulted most.
+articles I read, titles and authors of which are lost in the haze of my memory.
+However while compiling these notes it's likely Wikipedia and Google were
+consulted for quick verification.
 
 Disclaimer
 ----------
@@ -41,8 +42,9 @@ Disclaimer
 * It might seem a strange subject to subject anyone to. If you find my babbling
   baffling or the discussion disgusting, just discontinue.
 
-* I won't put much verve into verifying the veracity of my historical claims.
+* I do a quick check of the claims I make against Wikipedia and google, but I
+  won't put too much verve into verifying the veracity of my historical claims.
 
 * This is written purely out of interest. It does not adhere to rigorous
-  academic standards. It should be considered more like a lecture reader.
+  academic standards.
 
