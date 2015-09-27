@@ -42,7 +42,7 @@ Disclaimer
 * It might seem a strange subject to subject anyone to. If you find my babbling
   baffling or the discussion disgusting, just discontinue.
 
-* I do a quick check of the claims I make against Wikipedia and google, but I
+* I do a quick check of the claims I make against Wikipedia and Google. I
   won't put too much verve into verifying the veracity of my historical claims.
 
 * This is written purely out of interest. It does not adhere to rigorous
