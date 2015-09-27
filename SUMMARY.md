@@ -1,6 +1,6 @@
 # Summary
 
-* [The ubiquitous use of logic](chapter1/README.md)
+* [The ubiquitous use and abuse of logic](chapter1/README.md)
     * [Highlights from history](chapter1/01.history.md)
     * [Defining the dominion of logic](chapter1/02.dominion.md)
     * [Starting from sound suppositions](chapter1/03.suppositions.md)
