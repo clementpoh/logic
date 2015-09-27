@@ -37,7 +37,7 @@ Disclaimer
 
 * Please treat this as tongue in cheek rather than triumphant treatise. 
 
-* If I do grossly misrepresent a position, let me know.
+* If I do grossly misrepresent a position or get anything wrong, let me know.
 
 * It might seem a strange subject to subject anyone to. If you find my babbling
   baffling or the discussion disgusting, just discontinue.
