@@ -1,4 +1,4 @@
-# The ubiquitous use of logic
+# The ubiquitous use and abuse of logic
 
 Some statements on the surface sound sound. Upon further examination the
 statements suddenly sound slightly strange after all. Sometimes certain
