@@ -1,35 +1,29 @@
-# Ebullient with Boole
+# Ebullient Logic
 
-Some statements on the surface sound sound. Upon further examination the
-statements suddenly sound slightly strange after all. Sometimes certain
-statements sound stupid. However, after sounding out the subtleties, the
-statements are sound after all. Logic is a tool that can guide us through
-the cacophony away from the noise.
+As a summary, in the previous section:
+* We had a quick look at the history of logic from ancient times to the
+  beginning of modern logic today.
+* We established the necessity of the concept of truth in logic and some of its
+  properties.
+* We demonstrated the limit of logic showing how logically valid arguments can
+  be philosophically flawed.
+* We explored the importance of consistency while examining some self-refuting
+  claims.
+* We discussed the affect of human psychology on the ability to reason
+  effectively.
+* Finally we managed to progress as far as Plato by pointing out a few
+  argumentative fallacies that people are prone to making.
 
-I remember crashing a friend's introductory philosophy lecture in early 2009
-just before I went to Japan for a year long exchange programme. The lecturer
-was teaching basic logic. He said something like:
+In this section separate from the underlying philosophical assumptions, we will
+see the validity of logical arguments can by recognised by their form.
 
-> All this stuff is useless except that you can now say cool words like
-> "disjunctive syllogism" and your friends won't understand you. In fact,
-> philosophy is so useless that thanks to the incoming Melbourne Model I will
-> be out of job at the end of the semester.
+From this, we will learn the most basic formalisation of symbolic logic,
+Boolean Algebra and its conventions and how they differ from language.
 
-I was appalled. I remember thinking no wonder he is losing his job, logic is
-used ubiquitously. On a practical level, logic is indispensable to the circuits
-of calculators, computers and phones. On a philosophical level it can be
-applied to validate arguments and assertions we encounter in everyday life.
+With this knowledge, we will translate arguments in English into logic; and
+interpret logical formulas back into English.
 
-## A text without context is a pretext
+We shall see how it's possible to mathematically establish some logical
+consequences of an argument, and its validity.
 
-Before exploring basic formalisations of logic, in this section we will very
-briefly cover the history and context of logical reasoning and thought.
-Properties of truth, and the limits of logic are discussed. We will then finish
-with some common pitfalls and issues in its application.
-
-## Disclaimer
-
-This section has not borrowed material from any university course I have taken.
-So don't blame any of the subjects at Melbourne University for my poverty of
-thought. It mostly comes from my reading and flawed understanding of the
-philosophy of logic.
+We will also study how Boolean logic is applied to computers.
