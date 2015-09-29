@@ -1,5 +1,7 @@
 # Ebullient Logic
 
+## Previous section summary
+
 As a summary, in the previous section:
 * We had a quick look at the history of logic from ancient times to the
   beginning of modern logic today.
@@ -13,6 +15,8 @@ As a summary, in the previous section:
   effectively.
 * Finally we managed to progress as far as Plato by pointing out a few
   argumentative fallacies that people are prone to making.
+
+## What's next
 
 In this section separate from the underlying philosophical assumptions, we will
 see the validity of logical arguments can by recognised by their form.

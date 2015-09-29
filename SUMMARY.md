@@ -6,3 +6,5 @@
     * [Starting from sound suppositions](chapter1/03.suppositions.md)
     * [Obstacles to objectivity](chapter1/04.obstacles.md)
     * [Adducing addled arguments](chapter1/05.fallacies.md)
+
+* [Boolean Logic](chapter2/README.md)
