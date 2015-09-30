@@ -23,13 +23,11 @@ mechanically reason about statements logically. Once a set of statements are
 translated into a logical formula they can be manipulated to find equivalent
 statements, logical consequences, and determine the argument's validity.
 
-In this section separate from the underlying philosophical assumptions, we will
-see the validity of logical arguments can by recognised by their form.
-
-From this, we will cover the most basic formalisation of symbolic logic,
-Boolean Algebra and its conventions and how they differ from language.
-
-With this knowledge, we will translate arguments in English into logic; and
+In this section the following shall be discussed.
+* Separate from the underlying philosophical assumptions, validity of logical     arguments can by recognised by their form.
+* We will cover the most basic formalisation of symbolic logic,
+  Boolean Algebra and its conventions and how they differ from language.
+* With this knowledge, we will translate arguments in English into logic; and
 interpret logical formulas back into English.
 
 We shall see how it's possible to mathematically establish some logical
