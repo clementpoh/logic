@@ -18,10 +18,15 @@ As a summary, in the previous section:
 
 ## What's next
 
+Boolean algebra was revolutionary because it allows us to rigorously and
+mechanically reason about statements logically. Once a set of statements are
+translated into a logical formula they can be manipulated to find equivalent
+statements, logical consequences, and determine the argument's validity.
+
 In this section separate from the underlying philosophical assumptions, we will
 see the validity of logical arguments can by recognised by their form.
 
-From this, we will learn the most basic formalisation of symbolic logic,
+From this, we will cover the most basic formalisation of symbolic logic,
 Boolean Algebra and its conventions and how they differ from language.
 
 With this knowledge, we will translate arguments in English into logic; and

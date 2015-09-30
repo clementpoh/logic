@@ -8,3 +8,4 @@
     * [Adducing addled arguments](chapter1/05.fallacies.md)
 
 * [Boolean Logic](chapter2/README.md)
+    * [Connecting concepts](chapter2/01.connectives.md)
