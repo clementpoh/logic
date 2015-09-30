@@ -25,7 +25,7 @@ statements, logical consequences, and determine the argument's validity.
 
 In this section the following shall be discussed.
 * Separate from the underlying philosophical assumptions, validity of logical     arguments can by recognised by their form.
-* We will cover the most basic formalisation of symbolic logic,
+* We will cover the most basic formalisation of symbolic logic.
   Boolean Algebra and its conventions and how they differ from language.
 * With this knowledge, we will translate arguments in English into logic; and
 interpret logical formulas back into English.
