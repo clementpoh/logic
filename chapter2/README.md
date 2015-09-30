@@ -24,7 +24,7 @@ translated into a logical formula they can be manipulated to find equivalent
 statements, logical consequences, and determine the argument's validity.
 
 In this section the following shall be discussed.
-* Separate from the underlying philosophical assumptions, validity of logical     arguments can by recognised by their form.
+* Separate from the underlying philosophical assumptions, validity of        logical arguments can by recognised by their form.
 * We will cover the most basic formalisation of symbolic logic,
   Boolean Algebra, its conventions and how they differ from language.
 * We will translate arguments in English into logic; interpret logical       formulas back into English.
