@@ -29,5 +29,4 @@ In this section the following shall be discussed.
   Boolean Algebra, its conventions and how they differ from language.
 * We will translate arguments in English into logic; interpret logical       formulas back into English.
 * We shall see how it's possible to mathematically establish some logical    consequences of an argument, and its validity.
-
-We will also study how Boolean logic is applied to computers.
+* We will also study how Boolean logic is applied to computers.
