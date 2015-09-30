@@ -13,8 +13,8 @@ As a summary, in the previous section:
   claims.
 * We discussed the affect of human psychology on the ability to reason
   effectively.
-* Finally we managed to progress as far as Plato by pointing out a few
-  argumentative fallacies that people are prone to making.
+* Finally, we managed to progress to Plato. We discussed a few argumentative
+  fallacies that people are prone to making.
 
 ## What's next
 
